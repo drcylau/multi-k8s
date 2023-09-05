@@ -14,7 +14,7 @@ metadata:
 spec:
   tls:
     - hosts:
-      - drcylau.ddns.net
+        - drcylau.ddns.net
       secretName: drcylau.ddns.net-com
   rules:
     - host: drcylau.ddns.net
